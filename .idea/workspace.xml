@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Primeiro commit">
-      <change afterPath="$PROJECT_DIR$/mainInterativo.py" afterDir="false" />
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Primeiro main finalizado.">
+      <change afterPath="$PROJECT_DIR$/tiposNumericos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainInterativo.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainInterativo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,67 +30,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000007962009296" />
-      <entry key="MS500" value="1.195645065171865" />
-      <entry key="S2" value="3.2095744806804394" />
-      <entry key="S5" value="5.5293776357670845" />
-      <entry key="S10" value="6.962596175454708" />
-      <entry key="S30" value="8.672348808851712" />
-      <entry key="S60" value="11.073827896271638" />
-      <entry key="M2" value="16.47959362375726" />
-      <entry key="M5" value="35.425707954902784" />
-      <entry key="M10" value="69.48013292612012" />
-      <entry key="M15" value="98.77562364651824" />
-      <entry key="M30" value="154.42386830236643" />
-      <entry key="H1" value="201.20427679513728" />
-      <entry key="H2" value="232.20698384429423" />
-      <entry key="H4" value="250.15622643338898" />
-      <entry key="D1" value="266.55176204640435" />
-      <entry key="W1" value="269.5038130644433" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000233292996" />
+      <entry key="S60" value="1.0006039026913023" />
+      <entry key="M2" value="1.1246079423825805" />
+      <entry key="M5" value="5.0913981780989745" />
+      <entry key="M10" value="18.75807083685081" />
+      <entry key="M15" value="36.27029444133119" />
+      <entry key="M30" value="93.66157035992916" />
+      <entry key="H1" value="175.85531397510601" />
+      <entry key="H2" value="251.33471986475638" />
+      <entry key="H4" value="303.5458422024709" />
+      <entry key="D1" value="357.0266569786433" />
+      <entry key="W1" value="367.26132272385536" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.7398062023005822E-154" />
-      <entry key="S2" value="3.631827549531176E-39" />
-      <entry key="S5" value="4.207751538672716E-16" />
-      <entry key="S10" value="2.051280463191887E-8" />
-      <entry key="S30" value="0.00273744341276242" />
-      <entry key="S60" value="0.05253075141549087" />
-      <entry key="M2" value="0.2516150735019852" />
-      <entry key="M5" value="1.2057500670267622" />
-      <entry key="M10" value="3.712447158796664" />
-      <entry key="M15" value="6.162457228153924" />
-      <entry key="M30" value="10.986078334715526" />
-      <entry key="H1" value="15.060180792576572" />
-      <entry key="H2" value="17.746499505243722" />
-      <entry key="H4" value="19.294776278046093" />
-      <entry key="D1" value="20.704183116663483" />
-      <entry key="W1" value="20.957446216931892" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.605337864966681E-267" />
+      <entry key="S5" value="3.158207917980558E-107" />
+      <entry key="S10" value="5.619793517541862E-54" />
+      <entry key="S30" value="1.7778977746386732E-18" />
+      <entry key="S60" value="1.3333783321213423E-9" />
+      <entry key="M2" value="3.651638774860507E-5" />
+      <entry key="M5" value="0.017299574394028672" />
+      <entry key="M10" value="0.20606031201331984" />
+      <entry key="M15" value="0.719210301634369" />
+      <entry key="M30" value="3.5178430964023577" />
+      <entry key="H1" value="8.596749754175526" />
+      <entry key="H2" value="13.684729970743076" />
+      <entry key="H4" value="17.331382958329172" />
+      <entry key="D1" value="21.139363409654365" />
+      <entry key="W1" value="21.87485992127102" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.952645603558624" />
-      <entry key="MS500" value="1.1843659344036086" />
-      <entry key="S2" value="3.2024443821922723" />
-      <entry key="S5" value="5.52446500710177" />
-      <entry key="S10" value="6.9594799231066204" />
-      <entry key="S30" value="8.668700412783362" />
-      <entry key="S60" value="11.10903384246482" />
-      <entry key="M2" value="16.705746081835404" />
-      <entry key="M5" value="36.602687386578744" />
-      <entry key="M10" value="73.16433073003734" />
-      <entry key="M15" value="104.91191986630146" />
-      <entry key="M30" value="165.39028999499536" />
-      <entry key="H1" value="216.25198501813708" />
-      <entry key="H2" value="249.94639175170502" />
-      <entry key="H4" value="269.44721241248845" />
-      <entry key="D1" value="287.2552765166176" />
-      <entry key="W1" value="290.4611628145278" />
+      <entry key="MS100" value="1.821132857053021E-44" />
+      <entry key="MS500" value="1.7867686586925085E-9" />
+      <entry key="S2" value="0.006501552614933784" />
+      <entry key="S5" value="0.13341566725499504" />
+      <entry key="S10" value="0.365261094636419" />
+      <entry key="S30" value="0.7148273372291096" />
+      <entry key="S60" value="0.8460777796546217" />
+      <entry key="M2" value="1.043987315027417" />
+      <entry key="M5" value="5.072329518063713" />
+      <entry key="M10" value="18.938852319887115" />
+      <entry key="M15" value="36.96680781520728" />
+      <entry key="M30" value="97.15950909008069" />
+      <entry key="H1" value="184.43653736902692" />
+      <entry key="H2" value="265.0092492415721" />
+      <entry key="H4" value="320.8713019552088" />
+      <entry key="D1" value="378.16489475634705" />
+      <entry key="W1" value="389.1360180845775" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JWOMjzcddVLzf94a5ON29G4ca9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -100,6 +100,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
+    "Python.mainInterativo.executor": "Run",
+    "Python.tiposNumericos.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -114,11 +116,20 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "Docker",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="IntroducaoPython" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="IntroducaoPython" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tiposNumericos">
+    <configuration name="mainInterativo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,13 +138,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainInterativo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,101 +153,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="tiposNumericos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposNumericos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="IntroducaoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="IntroducaoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="IntroducaoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="IntroducaoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tiposNumericos" />
+        <item itemvalue="Python.mainInterativo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
@@ -264,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789773478797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeiro main finalizado.">
+      <option name="closed" value="true" />
+      <created>1789776920585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789776920585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +231,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
+    <MESSAGE value="Primeiro main finalizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro main finalizado." />
   </component>
 </project>
