@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Adicionado as estrutras de controle.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Adição do .gitignore">
+      <change afterPath="$PROJECT_DIR$/estrutrasDeRepeticao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturasDeControle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutuasDeControle.py" beforeDir="false" afterPath="$PROJECT_DIR$/estrutuasDeControle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0305366875809951" />
-      <entry key="MS500" value="2.0850987801679723" />
-      <entry key="S2" value="4.975438353446734" />
-      <entry key="S5" value="6.90916384404205" />
-      <entry key="S10" value="7.848085182334034" />
-      <entry key="S30" value="8.682278072379276" />
-      <entry key="S60" value="9.208617721540394" />
-      <entry key="M2" value="9.849051787920068" />
-      <entry key="M5" value="13.223376396412531" />
-      <entry key="M10" value="25.40560795739834" />
-      <entry key="M15" value="41.90999868418692" />
-      <entry key="M30" value="97.93730990058465" />
-      <entry key="H1" value="180.42019259559925" />
-      <entry key="H2" value="257.42595818529435" />
-      <entry key="H4" value="311.17759311631517" />
-      <entry key="D1" value="366.5610844396953" />
-      <entry key="W1" value="377.1928719937093" />
+      <entry key="MS100" value="1.0497212411298769" />
+      <entry key="MS500" value="1.638937599221876" />
+      <entry key="S2" value="3.461108772684492" />
+      <entry key="S5" value="5.535609956019731" />
+      <entry key="S10" value="7.530936837609761" />
+      <entry key="S30" value="12.809761937899673" />
+      <entry key="S60" value="19.14809407402517" />
+      <entry key="M2" value="30.317483089196507" />
+      <entry key="M5" value="58.62338739878824" />
+      <entry key="M10" value="97.56192468422053" />
+      <entry key="M15" value="127.40782965904185" />
+      <entry key="M30" value="194.01731921894756" />
+      <entry key="H1" value="292.831959393491" />
+      <entry key="H2" value="405.8638961612287" />
+      <entry key="H4" value="498.0756540705336" />
+      <entry key="D1" value="604.5181036560435" />
+      <entry key="W1" value="626.2624137304518" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.1061024429618378E-291" />
-      <entry key="S5" value="5.3628024208508285E-117" />
-      <entry key="S10" value="7.323115744579506E-59" />
-      <entry key="S30" value="4.183745897055828E-20" />
-      <entry key="S60" value="2.045420715061391E-10" />
-      <entry key="M2" value="1.4302186543879632E-5" />
-      <entry key="M5" value="0.01189053156144321" />
-      <entry key="M10" value="0.17083516786401387" />
-      <entry key="M15" value="0.6347136669413515" />
-      <entry key="M30" value="3.3047410894700917" />
-      <entry key="H1" value="8.332297590311303" />
-      <entry key="H2" value="13.47260186903779" />
-      <entry key="H4" value="17.196530746839837" />
-      <entry key="D1" value="21.111860545339777" />
-      <entry key="W1" value="21.87079197184779" />
+      <entry key="S2" value="7.671775033542817E-173" />
+      <entry key="S5" value="1.4254708606106263E-69" />
+      <entry key="S10" value="3.7756332434972063E-35" />
+      <entry key="S30" value="3.4524399494515237E-12" />
+      <entry key="S60" value="2.161904909229671E-6" />
+      <entry key="M2" value="0.0020896419933494298" />
+      <entry key="M5" value="0.18257656761029192" />
+      <entry key="M10" value="0.972742129710468" />
+      <entry key="M15" value="1.784947261312391" />
+      <entry key="M30" value="3.993846321739633" />
+      <entry key="H1" value="8.43647937756124" />
+      <entry key="H2" value="14.524647692356853" />
+      <entry key="H4" value="19.908862244949713" />
+      <entry key="D1" value="26.409582418909153" />
+      <entry key="W1" value="27.766008189763877" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9950278729518007" />
-      <entry key="MS500" value="2.0458260395645187" />
-      <entry key="S2" value="4.920484012652477" />
-      <entry key="S5" value="6.876348793559228" />
-      <entry key="S10" value="7.82923407781726" />
-      <entry key="S30" value="8.667050360639909" />
-      <entry key="S60" value="9.178277928824658" />
-      <entry key="M2" value="9.812656599349436" />
-      <entry key="M5" value="13.207737935077885" />
-      <entry key="M10" value="25.554089030037947" />
-      <entry key="M15" value="42.52371924252575" />
-      <entry key="M30" value="101.22285445126408" />
-      <entry key="H1" value="188.73718820161574" />
-      <entry key="H2" value="270.8883898707597" />
-      <entry key="H4" value="328.36818261573643" />
-      <entry key="D1" value="387.67181009108424" />
-      <entry key="W1" value="399.0634979023167" />
+      <entry key="MS100" value="0.9656244847132983" />
+      <entry key="MS500" value="1.6110927795750436" />
+      <entry key="S2" value="3.441373681484368" />
+      <entry key="S5" value="5.463190325000714" />
+      <entry key="S10" value="7.397499908001173" />
+      <entry key="S30" value="12.66094454509157" />
+      <entry key="S60" value="19.030307346693235" />
+      <entry key="M2" value="30.229902806802997" />
+      <entry key="M5" value="58.74159327976545" />
+      <entry key="M10" value="98.48282532793638" />
+      <entry key="M15" value="129.1478212029335" />
+      <entry key="M30" value="197.97700176065064" />
+      <entry key="H1" value="301.2433267184427" />
+      <entry key="H2" value="420.37173882318706" />
+      <entry key="H4" value="517.9744551877905" />
+      <entry key="D1" value="630.9256988203307" />
+      <entry key="W1" value="654.0281290936404" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -97,6 +100,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.estrutrasDeRepeticao.executor": "Run",
+    "Python.estrutuasDeControle.executor": "Run",
+    "Python.estruturasDeControle2.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mainInterativo.executor": "Run",
     "Python.tiposNumericos.executor": "Run",
@@ -126,7 +132,79 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tiposNumericos">
+  <component name="RunManager" selected="Python.estrutrasDeRepeticao">
+    <configuration name="estrutrasDeRepeticao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroducaoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutrasDeRepeticao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estrutuasDeControle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroducaoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutuasDeControle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estruturasDeControle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroducaoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturasDeControle2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mainInterativo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
@@ -177,6 +255,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.estrutrasDeRepeticao" />
+        <item itemvalue="Python.estruturasDeControle2" />
+        <item itemvalue="Python.estrutuasDeControle" />
         <item itemvalue="Python.tiposNumericos" />
         <item itemvalue="Python.mainInterativo" />
       </list>
@@ -229,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789780535309</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adição do .gitignore">
+      <option name="closed" value="true" />
+      <created>1789780609252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789780609252</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +328,7 @@
     <MESSAGE value="Primeiro commit" />
     <MESSAGE value="Primeiro main finalizado." />
     <MESSAGE value="Adicionado as estrutras de controle." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado as estrutras de controle." />
+    <MESSAGE value="Adição do .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição do .gitignore" />
   </component>
 </project>
