@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Adição da estruturas de controle">
-      <change afterPath="$PROJECT_DIR$/escopoDeVariaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcao_anonima.py" afterDir="false" />
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Introdução às funções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcaoDeAltaOrdem.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcaoDeAltaOrdem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,61 +29,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000000000015831" />
-      <entry key="S5" value="1.0001450770488214" />
-      <entry key="S10" value="1.0367142992330178" />
-      <entry key="S30" value="3.086307320561188" />
-      <entry key="S60" value="8.52155567297322" />
-      <entry key="M2" value="18.863074482126386" />
-      <entry key="M5" value="41.1632819572974" />
-      <entry key="M10" value="71.96467639205628" />
-      <entry key="M15" value="100.19404347987721" />
-      <entry key="M30" value="176.76374551122427" />
-      <entry key="H1" value="302.2994024781207" />
-      <entry key="H2" value="462.2956176242947" />
-      <entry key="H4" value="607.4126351758475" />
-      <entry key="D1" value="790.7188179320743" />
-      <entry key="W1" value="830.1553051895817" />
+      <entry key="MS100" value="1.119079749755492" />
+      <entry key="MS500" value="1.6533875432316454" />
+      <entry key="S2" value="1.946154559082793" />
+      <entry key="S5" value="2.253011602828095" />
+      <entry key="S10" value="2.5558377267580994" />
+      <entry key="S30" value="4.95045508993476" />
+      <entry key="S60" value="10.742461034767143" />
+      <entry key="M2" value="22.08027684041355" />
+      <entry key="M5" value="48.22972649531891" />
+      <entry key="M10" value="83.33741594802477" />
+      <entry key="M15" value="114.63913246387082" />
+      <entry key="M30" value="197.32903226169705" />
+      <entry key="H1" value="330.90777744788903" />
+      <entry key="H2" value="502.87917677081606" />
+      <entry key="H4" value="661.6932467016459" />
+      <entry key="D1" value="865.8821469737685" />
+      <entry key="W1" value="910.2787426288583" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.4586730686873576E-252" />
-      <entry key="S2" value="1.2522043151296713E-63" />
-      <entry key="S5" value="6.903639245909362E-26" />
-      <entry key="S10" value="2.6387378380324516E-13" />
-      <entry key="S30" value="7.44601085512018E-5" />
-      <entry key="S60" value="0.011245600313485975" />
-      <entry key="M2" value="0.15191923792966286" />
-      <entry key="M5" value="0.959835586413884" />
-      <entry key="M10" value="2.1971544243062855" />
-      <entry key="M15" value="3.08193087223795" />
-      <entry key="M30" value="5.0726249577597065" />
-      <entry key="H1" value="8.960409153497618" />
-      <entry key="H2" value="15.423230106045962" />
-      <entry key="H4" value="22.207057439698662" />
-      <entry key="D1" value="31.543752240442135" />
-      <entry key="W1" value="33.634606270971766" />
+      <entry key="MS100" value="7.171721654562737E-79" />
+      <entry key="MS500" value="2.3503074927935935E-16" />
+      <entry key="S2" value="1.2382171309021554E-4" />
+      <entry key="S5" value="0.027931230366082332" />
+      <entry key="S10" value="0.19764853991340217" />
+      <entry key="S30" value="1.0774339935307224" />
+      <entry key="S60" value="1.979634394414536" />
+      <entry key="M2" value="2.96747861234573" />
+      <entry key="M5" value="4.113511562286738" />
+      <entry key="M10" value="5.239106169605758" />
+      <entry key="M15" value="6.177887427053853" />
+      <entry key="M30" value="8.407360459645009" />
+      <entry key="H1" value="12.450649775912114" />
+      <entry key="H2" value="19.10660655702411" />
+      <entry key="H4" value="26.250336930417138" />
+      <entry key="D1" value="36.3150110073665" />
+      <entry key="W1" value="38.59969675838154" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.8239457614875186E-4" />
-      <entry key="MS500" value="0.19506137004342583" />
-      <entry key="S2" value="0.6645731906730908" />
-      <entry key="S5" value="0.8493563518298536" />
-      <entry key="S10" value="0.9577670339559666" />
-      <entry key="S30" value="3.0462851163749614" />
-      <entry key="S60" value="8.491500899055312" />
-      <entry key="M2" value="18.97023888410098" />
-      <entry key="M5" value="42.080275814244274" />
-      <entry key="M10" value="74.12321261641472" />
-      <entry key="M15" value="103.24034320347894" />
-      <entry key="M30" value="181.80546906914256" />
-      <entry key="H1" value="311.23387078456204" />
-      <entry key="H2" value="477.69949718614157" />
-      <entry key="H4" value="629.6072342866559" />
-      <entry key="D1" value="822.2599245891652" />
-      <entry key="W1" value="863.7895162929209" />
+      <entry key="MS100" value="1.0433708660731391" />
+      <entry key="MS500" value="1.6297290047788993" />
+      <entry key="S2" value="1.9282160936912631" />
+      <entry key="S5" value="2.238923580618501" />
+      <entry key="S10" value="2.6877594912814997" />
+      <entry key="S30" value="5.936278633754669" />
+      <entry key="S60" value="12.632680623254817" />
+      <entry key="M2" value="24.971136966347668" />
+      <entry key="M5" value="52.287318187390916" />
+      <entry key="M10" value="88.53115684524738" />
+      <entry key="M15" value="120.77620516463054" />
+      <entry key="M30" value="205.7019750481827" />
+      <entry key="H1" value="343.330036659085" />
+      <entry key="H2" value="521.964676325635" />
+      <entry key="H4" value="687.9299548832671" />
+      <entry key="D1" value="902.1942461959869" />
+      <entry key="W1" value="948.8780038329977" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,6 +102,7 @@
     "Python.estrutrasDeRepeticao.executor": "Run",
     "Python.estrutuasDeControle.executor": "Run",
     "Python.estruturasDeControle2.executor": "Run",
+    "Python.funcaoDeAltaOrdem.executor": "Run",
     "Python.funcao_anonima.executor": "Run",
     "Python.funcoes.executor": "Run",
     "Python.main.executor": "Run",
@@ -135,7 +134,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.escopoDeVariaveis">
+  <component name="RunManager" selected="Python.funcaoDeAltaOrdem">
     <configuration name="escopoDeVariaveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
@@ -184,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="estruturasDeControle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcaoDeAltaOrdem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +198,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturasDeControle2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcaoDeAltaOrdem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.funcaoDeAltaOrdem" />
         <item itemvalue="Python.escopoDeVariaveis" />
         <item itemvalue="Python.funcao_anonima" />
         <item itemvalue="Python.funcoes" />
         <item itemvalue="Python.estrutrasDeRepeticao" />
-        <item itemvalue="Python.estruturasDeControle2" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789785994877</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Introdução às funções">
+      <option name="closed" value="true" />
+      <created>1789788375647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789788375647</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +348,7 @@
     <MESSAGE value="Adicionado as estrutras de controle." />
     <MESSAGE value="Adição do .gitignore" />
     <MESSAGE value="Adição da estruturas de controle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição da estruturas de controle" />
+    <MESSAGE value="Introdução às funções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução às funções" />
   </component>
 </project>
