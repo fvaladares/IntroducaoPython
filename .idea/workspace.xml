@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="" />
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Primeiro commit">
+      <change afterPath="$PROJECT_DIR$/mainInterativo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,6 +27,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000007962009296" />
+      <entry key="MS500" value="1.195645065171865" />
+      <entry key="S2" value="3.2095744806804394" />
+      <entry key="S5" value="5.5293776357670845" />
+      <entry key="S10" value="6.962596175454708" />
+      <entry key="S30" value="8.672348808851712" />
+      <entry key="S60" value="11.073827896271638" />
+      <entry key="M2" value="16.47959362375726" />
+      <entry key="M5" value="35.425707954902784" />
+      <entry key="M10" value="69.48013292612012" />
+      <entry key="M15" value="98.77562364651824" />
+      <entry key="M30" value="154.42386830236643" />
+      <entry key="H1" value="201.20427679513728" />
+      <entry key="H2" value="232.20698384429423" />
+      <entry key="H4" value="250.15622643338898" />
+      <entry key="D1" value="266.55176204640435" />
+      <entry key="W1" value="269.5038130644433" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.7398062023005822E-154" />
+      <entry key="S2" value="3.631827549531176E-39" />
+      <entry key="S5" value="4.207751538672716E-16" />
+      <entry key="S10" value="2.051280463191887E-8" />
+      <entry key="S30" value="0.00273744341276242" />
+      <entry key="S60" value="0.05253075141549087" />
+      <entry key="M2" value="0.2516150735019852" />
+      <entry key="M5" value="1.2057500670267622" />
+      <entry key="M10" value="3.712447158796664" />
+      <entry key="M15" value="6.162457228153924" />
+      <entry key="M30" value="10.986078334715526" />
+      <entry key="H1" value="15.060180792576572" />
+      <entry key="H2" value="17.746499505243722" />
+      <entry key="H4" value="19.294776278046093" />
+      <entry key="D1" value="20.704183116663483" />
+      <entry key="W1" value="20.957446216931892" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.952645603558624" />
+      <entry key="MS500" value="1.1843659344036086" />
+      <entry key="S2" value="3.2024443821922723" />
+      <entry key="S5" value="5.52446500710177" />
+      <entry key="S10" value="6.9594799231066204" />
+      <entry key="S30" value="8.668700412783362" />
+      <entry key="S60" value="11.10903384246482" />
+      <entry key="M2" value="16.705746081835404" />
+      <entry key="M5" value="36.602687386578744" />
+      <entry key="M10" value="73.16433073003734" />
+      <entry key="M15" value="104.91191986630146" />
+      <entry key="M30" value="165.39028999499536" />
+      <entry key="H1" value="216.25198501813708" />
+      <entry key="H2" value="249.94639175170502" />
+      <entry key="H4" value="269.44721241248845" />
+      <entry key="D1" value="287.2552765166176" />
+      <entry key="W1" value="290.4611628145278" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -26,13 +99,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "to.speed.mode.migration.done": "true"
   }
@@ -168,9 +248,30 @@
       <option name="presentableId" value="Default" />
       <updated>1789773312088</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <option name="closed" value="true" />
+      <created>1789773363744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789773363744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro commit">
+      <option name="closed" value="true" />
+      <created>1789773478797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789773478797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
   </component>
 </project>
