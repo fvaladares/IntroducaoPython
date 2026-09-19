@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Introdução às funções">
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Finalizada a parte de funções">
+      <change afterPath="$PROJECT_DIR$/PessoaDemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcaoDeAltaOrdem.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcaoDeAltaOrdem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pessoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pessoa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,61 +30,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.119079749755492" />
-      <entry key="MS500" value="1.6533875432316454" />
-      <entry key="S2" value="1.946154559082793" />
-      <entry key="S5" value="2.253011602828095" />
-      <entry key="S10" value="2.5558377267580994" />
-      <entry key="S30" value="4.95045508993476" />
-      <entry key="S60" value="10.742461034767143" />
-      <entry key="M2" value="22.08027684041355" />
-      <entry key="M5" value="48.22972649531891" />
-      <entry key="M10" value="83.33741594802477" />
-      <entry key="M15" value="114.63913246387082" />
-      <entry key="M30" value="197.32903226169705" />
-      <entry key="H1" value="330.90777744788903" />
-      <entry key="H2" value="502.87917677081606" />
-      <entry key="H4" value="661.6932467016459" />
-      <entry key="D1" value="865.8821469737685" />
-      <entry key="W1" value="910.2787426288583" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000003693970919" />
+      <entry key="S2" value="1.0555922148990131" />
+      <entry key="S5" value="1.4687763489875414" />
+      <entry key="S10" value="2.2387976440911967" />
+      <entry key="S30" value="5.810767659169078" />
+      <entry key="S60" value="9.54325890790926" />
+      <entry key="M2" value="13.628949131617604" />
+      <entry key="M5" value="25.499305975733506" />
+      <entry key="M10" value="50.277116914463555" />
+      <entry key="M15" value="75.57632659523291" />
+      <entry key="M30" value="153.26289597479098" />
+      <entry key="H1" value="300.1653079933577" />
+      <entry key="H2" value="515.2412101798446" />
+      <entry key="H4" value="736.2398250600248" />
+      <entry key="D1" value="1047.9520363627498" />
+      <entry key="W1" value="1119.4397058840136" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.171721654562737E-79" />
-      <entry key="MS500" value="2.3503074927935935E-16" />
-      <entry key="S2" value="1.2382171309021554E-4" />
-      <entry key="S5" value="0.027931230366082332" />
-      <entry key="S10" value="0.19764853991340217" />
-      <entry key="S30" value="1.0774339935307224" />
-      <entry key="S60" value="1.979634394414536" />
-      <entry key="M2" value="2.96747861234573" />
-      <entry key="M5" value="4.113511562286738" />
-      <entry key="M10" value="5.239106169605758" />
-      <entry key="M15" value="6.177887427053853" />
-      <entry key="M30" value="8.407360459645009" />
-      <entry key="H1" value="12.450649775912114" />
-      <entry key="H2" value="19.10660655702411" />
-      <entry key="H4" value="26.250336930417138" />
-      <entry key="D1" value="36.3150110073665" />
-      <entry key="W1" value="38.59969675838154" />
+      <entry key="MS100" value="9.859869618511136E-6" />
+      <entry key="MS500" value="0.09971815497612911" />
+      <entry key="S2" value="0.5619446729541697" />
+      <entry key="S5" value="0.7941105302796665" />
+      <entry key="S10" value="0.8936663612393254" />
+      <entry key="S30" value="1.1020078838942493" />
+      <entry key="S60" value="1.407312587821176" />
+      <entry key="M2" value="1.8407656541970674" />
+      <entry key="M5" value="2.6697066159964367" />
+      <entry key="M10" value="4.164473126999307" />
+      <entry key="M15" value="5.741957051672365" />
+      <entry key="M30" value="10.022020743202253" />
+      <entry key="H1" value="16.487203857854002" />
+      <entry key="H2" value="25.483276979603662" />
+      <entry key="H4" value="35.24009085457954" />
+      <entry key="D1" value="49.899572947214324" />
+      <entry key="W1" value="53.38372520519101" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0433708660731391" />
-      <entry key="MS500" value="1.6297290047788993" />
-      <entry key="S2" value="1.9282160936912631" />
-      <entry key="S5" value="2.238923580618501" />
-      <entry key="S10" value="2.6877594912814997" />
-      <entry key="S30" value="5.936278633754669" />
-      <entry key="S60" value="12.632680623254817" />
-      <entry key="M2" value="24.971136966347668" />
-      <entry key="M5" value="52.287318187390916" />
-      <entry key="M10" value="88.53115684524738" />
-      <entry key="M15" value="120.77620516463054" />
-      <entry key="M30" value="205.7019750481827" />
-      <entry key="H1" value="343.330036659085" />
-      <entry key="H2" value="521.964676325635" />
-      <entry key="H4" value="687.9299548832671" />
-      <entry key="D1" value="902.1942461959869" />
-      <entry key="W1" value="948.8780038329977" />
+      <entry key="MS100" value="1.0553432999364439E-4" />
+      <entry key="MS500" value="0.1605917933050442" />
+      <entry key="S2" value="0.7912218765834781" />
+      <entry key="S5" value="1.594293652007765" />
+      <entry key="S10" value="2.62866915243615" />
+      <entry key="S30" value="6.625368186497679" />
+      <entry key="S60" value="10.754078729453774" />
+      <entry key="M2" value="15.34376168402412" />
+      <entry key="M5" value="28.093147709281094" />
+      <entry key="M10" value="54.38002926298284" />
+      <entry key="M15" value="81.26241332529351" />
+      <entry key="M30" value="163.23774539921823" />
+      <entry key="H1" value="316.61389895431876" />
+      <entry key="H2" value="540.6954360392789" />
+      <entry key="H4" value="771.4607143617403" />
+      <entry key="D1" value="1097.8473586900743" />
+      <entry key="W1" value="1172.8227902200656" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -98,6 +99,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PessoaDemo.executor": "Run",
     "Python.escopoDeVariaveis.executor": "Run",
     "Python.estrutrasDeRepeticao.executor": "Run",
     "Python.estrutuasDeControle.executor": "Run",
@@ -134,7 +136,31 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.funcaoDeAltaOrdem">
+  <component name="RunManager" selected="Python.PessoaDemo">
+    <configuration name="PessoaDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroducaoPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PessoaDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="escopoDeVariaveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
@@ -151,30 +177,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escopoDeVariaveis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="estrutrasDeRepeticao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="IntroducaoPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutrasDeRepeticao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PessoaDemo" />
         <item itemvalue="Python.funcaoDeAltaOrdem" />
         <item itemvalue="Python.escopoDeVariaveis" />
         <item itemvalue="Python.funcao_anonima" />
         <item itemvalue="Python.funcoes" />
-        <item itemvalue="Python.estrutrasDeRepeticao" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789788375647</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finalizada a parte de funções">
+      <option name="closed" value="true" />
+      <created>1789789822714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789789822714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +359,23 @@
     <MESSAGE value="Adição do .gitignore" />
     <MESSAGE value="Adição da estruturas de controle" />
     <MESSAGE value="Introdução às funções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introdução às funções" />
+    <MESSAGE value="Finalizada a parte de funções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizada a parte de funções" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pessoa.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PessoaDemo.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
